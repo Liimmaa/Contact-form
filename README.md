@@ -1,2 +1,2 @@
 # Contact-form
-This is a simple contact form built with html and css.
+This is a simple and responsive contact form built with html and css.
